@@ -1,4 +1,8 @@
-In this file you can find data and code for my paper 'Completeness of exponentially increasing sequences'. So for more information it makes most sense to just read that paper, but I will try to quickly provide some context on these files here anyway.
+In this file you can find data and code for my paper 'Completeness of exponentially increasing sequences'.
+
+W. van Doorn, Completeness of exponentially increasing sequences. arXiv:2602.23394 (2026)
+
+So for more information it makes most sense to just read the above paper, but I will try to quickly provide some context on these files here anyway.
 
 Every line in the five .txt-files contains a fourtuple of rationals $(t_1, t_2, \alpha_1, \alpha_2)$, which represent $x$ and $y$ coordinates of the bottom left and the top right corner of a rectangle in the plane. The variable that I call $t$ runs along the $x$-axis and the variable $\alpha$ runs along the $y$-axis. For example, the $x$ and $y$ coordinates from the first file titled 'Rectangles for t between 1 and 3 and alpha between 1.3 and 1.4', partition the region of length $3-1 = 2$ and height $1.4 - 1.3 = 0.1$ into $27373$ little rectangles.
 
